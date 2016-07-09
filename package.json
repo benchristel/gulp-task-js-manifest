@@ -1,0 +1,21 @@
+{
+  "name": "gulp-task-js-manifest",
+  "version": "0.0.0",
+  "description": "Creates a manifest of javascript files to require",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "task",
+    "manifest"
+  ],
+  "author": "Ben Christel",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.0.5",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-file": "^0.3.0"
+  }
+}
